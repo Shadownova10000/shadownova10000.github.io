@@ -1,0 +1,223 @@
+
+
+body
+{
+  background: #d8c9a8;
+  color: #555;
+  margin: 0;
+
+  font-family: garamond, sans-serif;
+}
+
+
+/*================== HEADER ======================*/
+#header
+{
+  background-color: #294908;
+  height: 7em;
+  line-height: 8em;
+}
+
+#header a
+{
+  color: #eae5d9;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding-left: 1em;
+}
+
+#header a:hover
+{
+  color: #222;
+}
+
+#header-title
+{
+  display: block;
+  float: left;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+#header-nav
+{
+  display: block;
+  float: right;
+}
+
+#header-nav li
+{
+  display: inline;
+  padding-right: 2em;
+  margin-top: 0;
+}
+
+.container
+{
+  max-width: 1000em;
+  margin: 0 0;
+}
+
+/*================== NAVIGATION ======================*/
+
+#navigation
+{
+  background: #5c8330;
+  height: 35em;
+  width: 13em;
+  float: left;
+  margin: 0em 0em;
+}
+
+#navigation a
+{
+  color: #eae5d9;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding-left: 0em;
+  text-align: center;
+  line-height: 2em;
+}
+
+#navigation a:hover
+{
+  color: #000000;
+}
+
+#nav-items
+{
+  display: block;
+  float: left;
+  text-align: left;
+}
+
+#nav-items li
+{
+  display: inline;
+  margin-top: 0;
+}
+
+
+
+
+
+
+/*================== CONTENT ======================*/
+
+#content
+{
+  margin: 2em 15em;
+}
+
+#content a
+{
+  color: #555;
+  text-decoration: none;
+  padding-left: 0em;
+  text-align: center;
+  line-height: 2em;
+}
+
+#content a:hover
+{
+  color: #FFFFFF;
+}
+
+#content img
+{
+  height: 12em;
+  width: 9.6em;
+}
+
+
+
+
+/*================== ABOUT-CONTENT ======================*/
+
+#about-content
+{
+  margin: 2em 15em;
+}
+
+
+.about
+{
+  text-align: center;
+  margin: 2em 1em;
+}
+
+.about img
+{
+  height: 12em;
+  width: 9.6em;
+  border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*================== FOOTER ======================*/
+#footer
+{
+  background-color: #382514;
+  padding: 1em 2em;
+  clear: both;
+}
+
+.column
+{
+  min-width: 2em;
+  display: inline-block;
+  vertical-align: top;
+}
+
+#footer h4
+{
+  color: #eae5d9;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+#resources
+{
+  color: #eae5d9;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding-left: 2em;
+}
+
+#footer p
+{
+  color: #eae5d9;
+}
+
+a
+{
+  color: #a7aab4;
+  text-decoration: none;
+  padding-left: 2em;
+}
+
+a:hover
+{
+  color: #f6a623;
+}
+
+/*
+#6b8e23 light green
+#d8c9a8 light tan
+*/
